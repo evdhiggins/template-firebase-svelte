@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "firebaseProjectName"
+  },
+  "targets": {
+    "firebaseProjectName": {
+      "hosting": {
+        "projectName": ["firebaseHostingName"]
+      }
+    }
+  }
+}

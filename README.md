@@ -1,0 +1,1 @@
+# Firebase + Svelte project template
